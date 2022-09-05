@@ -1,0 +1,5 @@
+setup.py
+pizzamama.egg-info/PKG-INFO
+pizzamama.egg-info/SOURCES.txt
+pizzamama.egg-info/dependency_links.txt
+pizzamama.egg-info/top_level.txt
