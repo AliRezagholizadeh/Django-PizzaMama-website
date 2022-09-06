@@ -1,4 +1,4 @@
-# A sample project written using Django technology and published on Heroku![image](https://user-images.githubusercontent.com/32339553/188680996-57c664c1-e7d4-42a4-82d4-f2b5e192f9f0.png)
+# A sample project written using Django technology and published on Heroku
 
 
 This project is a sample project written by Django technology and published on Heroku ([link](https://pizzamama-resturant-django.herokuapp.com/)).
